@@ -1,2 +1,2 @@
-# funcionalProgramming
+# Funcional Programming
 Funcional Programming Concepts
